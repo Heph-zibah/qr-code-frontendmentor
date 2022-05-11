@@ -33,5 +33,7 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
+## Author
+
 - Frontend Mentor - [@Heph-zibah](https://www.frontendmentor.io/profile/Heph-zibah)
 - Twitter - [@undaunted_pen](https://www.twitter.com/undaunted_pen)
