@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [OR CODE SOLUTION](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/mobile-responsive-interactive-rating-component-using-html-and-css-HkT7fmtU9)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
